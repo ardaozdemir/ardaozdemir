@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Python,Java,HTML,CSS**
+- 💬 Ask me about **Python, Java, HTML, CSS**
 
 - 📫 How to reach me **ardaozdemir283@gmail.com**
 
