@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arda Özdemir</h1>
+<h1 align="center">Hi 👋, I'm Arda Ozdemir</h1>
 <h3 align="center">A software developer passionate about web development and artifical intelligence</h3>
 
 - 🔭 I’m currently working on **driver drowsiness detection project**
