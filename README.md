@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda Ozdemir</h1>
-<h3 align="center">A software developer passionate about web development and artifical intelligence</h3>
+<h3 align="center">A software developer passionate about web development and artificial intelligence</h3>
 
 - 🔭 I’m currently working on **driver drowsiness detection project**
 
